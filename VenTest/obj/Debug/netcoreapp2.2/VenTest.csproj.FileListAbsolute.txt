@@ -1,0 +1,16 @@
+C:\RnD\VenTest\VenTest\obj\Debug\netcoreapp2.2\VenTest.RazorAssemblyInfo.cache
+C:\RnD\VenTest\VenTest\obj\Debug\netcoreapp2.2\VenTest.RazorAssemblyInfo.cs
+C:\RnD\VenTest\VenTest\obj\Debug\netcoreapp2.2\VenTest.AssemblyInfoInputs.cache
+C:\RnD\VenTest\VenTest\obj\Debug\netcoreapp2.2\VenTest.AssemblyInfo.cs
+C:\RnD\VenTest\VenTest\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\RnD\VenTest\VenTest\bin\Debug\netcoreapp2.2\appsettings.json
+C:\RnD\VenTest\VenTest\bin\Debug\netcoreapp2.2\VenTest.deps.json
+C:\RnD\VenTest\VenTest\bin\Debug\netcoreapp2.2\VenTest.runtimeconfig.json
+C:\RnD\VenTest\VenTest\bin\Debug\netcoreapp2.2\VenTest.runtimeconfig.dev.json
+C:\RnD\VenTest\VenTest\bin\Debug\netcoreapp2.2\VenTest.dll
+C:\RnD\VenTest\VenTest\obj\Debug\netcoreapp2.2\VenTest.RazorTargetAssemblyInfo.cache
+C:\RnD\VenTest\VenTest\bin\Debug\netcoreapp2.2\VenTest.pdb
+C:\RnD\VenTest\VenTest\obj\Debug\netcoreapp2.2\VenTest.dll
+C:\RnD\VenTest\VenTest\obj\Debug\netcoreapp2.2\VenTest.pdb
+C:\RnD\VenTest\VenTest\bin\Debug\netcoreapp2.2\VenTest.xml
+C:\RnD\VenTest\VenTest\obj\Debug\netcoreapp2.2\VenTest.csprojAssemblyReference.cache

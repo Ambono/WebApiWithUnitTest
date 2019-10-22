@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VenTest", "VenTest.csproj", "{53A09752-1776-49AD-9D2D-D663A6884834}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestPrices", "..\UnitTestPrices\UnitTestPrices.csproj", "{256D6A23-6AFF-410D-B24B-0D371C9510F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53A09752-1776-49AD-9D2D-D663A6884834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53A09752-1776-49AD-9D2D-D663A6884834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53A09752-1776-49AD-9D2D-D663A6884834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53A09752-1776-49AD-9D2D-D663A6884834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{256D6A23-6AFF-410D-B24B-0D371C9510F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{256D6A23-6AFF-410D-B24B-0D371C9510F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{256D6A23-6AFF-410D-B24B-0D371C9510F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{256D6A23-6AFF-410D-B24B-0D371C9510F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7A21160-4D38-484F-8CC2-46F3A8DD6FFE}
+	EndGlobalSection
+EndGlobal
